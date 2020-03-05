@@ -12,5 +12,6 @@
 ### CSS
 
 - CSS 简介与代码风格
+- CSS 基础选择器
 
 ### JavaScript
